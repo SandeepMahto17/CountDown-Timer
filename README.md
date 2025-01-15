@@ -1,1 +1,1 @@
-<h2>Countdown Timer <h2/>
+Countdown Timer
